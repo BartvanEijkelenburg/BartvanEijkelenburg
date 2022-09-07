@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Nest.JS, C# (ASP.NET), React.JS, Angular, GoLang, Typescript, React Native**
 
-- 👨‍💻 All of my projects will soon be available at [https://bartvaneijkelenburg.nl](bartvaneijkelenburg.nl)
+- 👨‍💻 All of my projects will soon be available at [bartvaneijkelenburg.nl](https://bartvaneijkelenburg.nl)
 
 - 💬 Ask me about **React.JS, C# (ASP.NET), Angular, Nest.JS, Typescript**
 
-- 📫 How to reach me **info@bartvaneijkelenburg.nl**
+- 📫 Email me at: **info@bartvaneijkelenburg.nl**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
