@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Bart</h1>
 <h3 align="center">A 20 year old software engineering student living in The Netherlands</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bartvaneijkelenburg" alt="bartvaneijkelenburg" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=bartvaneijkelenburg&theme=onedark" alt="bartvaneijkelenburg" /> </p>
 
 - 🌱 I’m currently learning **Nest.JS, C# (ASP.NET), React.JS, Angular, GoLang, Typescript, React Native**
 
@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bartvaneijkelenburg&show_icons=true&theme=onedark&locale=en" alt="bartvaneijkelenburg" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bartvaneijkelenburg&" alt="bartvaneijkelenburg" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bartvaneijkelenburg&theme=onedark" alt="bartvaneijkelenburg" /></p>
