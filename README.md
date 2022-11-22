@@ -1,8 +1,6 @@
 <h1 align="center">Hi there! I'm Bart</h1>
 <h3 align="center">A 20 year old software engineering student living in The Netherlands</h3>
 
-![](https://komarev.com/ghpvc/?username=bartvaneijkelenburg&color=11b2b8)
-
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=bartvaneijkelenburg" alt="bartvaneijkelenburg" /> </p>
 
 - 🌱 I’m currently learning **Nest.JS, C# (ASP.NET), React.JS, Angular, GoLang, Typescript, React Native**
