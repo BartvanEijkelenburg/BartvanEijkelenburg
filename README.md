@@ -1,11 +1,9 @@
 <h1 align="center">Hi there! I'm Bart</h1>
-<h3 align="center">A 20 year old software engineering student living in The Netherlands</h3>
+<h3 align="center">A 21 year old software engineering student living in The Netherlands</h3>
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=bartvaneijkelenburg" alt="bartvaneijkelenburg" /> </p>
 
-- 🌱 I’m currently learning **Nest.JS, C# (ASP.NET), React.JS, Angular, GoLang, Typescript, React Native**
-
-- 👨‍💻 All of my projects will soon be available at [bartvaneijkelenburg.nl](https://bartvaneijkelenburg.nl)
+- 🌱 I’m currently working with **Nest.JS, C# (ASP.NET), React.JS, Typescript**
 
 - 💬 Ask me about **React.JS, C# (ASP.NET), Angular, Nest.JS, Typescript**
 
