@@ -3,10 +3,6 @@
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=bartvaneijkelenburg" alt="bartvaneijkelenburg" /> </p>
 
-- 🌱 I’m currently working with **Nest.JS, C# (ASP.NET), React.JS, Typescript**
-
-- 💬 Ask me about **React.JS, C# (ASP.NET), Angular, Nest.JS, Typescript**
-
 - 📫 Email me at: **info@bartvaneijkelenburg.nl**
 
 <h3 align="left">Connect with me:</h3>
